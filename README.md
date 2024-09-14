@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I’m Hossam Talaat</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/hossamtal3t">
+  <a href="https://github.com/HosamTalaat">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Professional+iOS+Developer,;Computer+Science+Graduate,;Innovative+Problem+Solver,;Always+Learning+New+Technologies..<3">
   </a>
 </p>
@@ -71,7 +71,7 @@
 </picture>
 
 <div align="center">
-<a href="https://github.com/hossamtal3t">
+<a href="https://github.com/HosamTalaat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alaa747474&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="alaa747474"/>
 </a>
 </div>
