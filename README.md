@@ -24,7 +24,6 @@
 - *Languages*:
     
     ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
     ![c++](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=c++&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
