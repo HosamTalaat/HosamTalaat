@@ -71,10 +71,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 <div align="center">
-<a href="https://github.com/HosamTalaat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HosamTalaat&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="HosamTalaat"/>
-</a>
+  <a href="https://github.com/HosamTalaat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HosamTalaat&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&exclude_repo=repo1,repo2" width="375" alt="HosamTalaat"/>
+  </a>
+</div>
 
 </div>
 
